@@ -22,3 +22,5 @@ If you do not want to include all of them to your password, just uncheck the col
 ### Copy the Generated Password to Clipboard
 Having generated a secure password, you can copy the password to your clipboard. So you can paste it whereever you want without remembering that. <br><br> 
 <img src="https://raw.githubusercontent.com/kevinadhiguna/auth-spark/master/demo/4.copy.png" width="90%"></img>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/auth-spark)](https://github.com/kevinadhiguna)
