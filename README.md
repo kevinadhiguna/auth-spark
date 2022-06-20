@@ -8,9 +8,11 @@ Auth Spark is a secure password generator. It also enables you to copy the gener
 Here are how this app looks and features it has :
 
 ### Initial
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/auth-spark/master/demo/1.png" width="90%"></img>
 
 ### Password Customization
+
 Feel free to custom your password! You can choose the password length and also include :
 - Upercase Letters
 - Lowercase Letters
@@ -22,15 +24,20 @@ If you do not want to include all of them to your password, just uncheck the col
 <img src="https://raw.githubusercontent.com/kevinadhiguna/auth-spark/master/demo/3.png" width="90%"></img>
 
 ### Copy the Generated Password to Clipboard
+
 Having generated a secure password, you can copy the password to your clipboard. So you can paste it whereever you want without remembering that. <br><br> 
 <img src="https://raw.githubusercontent.com/kevinadhiguna/auth-spark/master/demo/4.copy.png" width="90%"></img>
 
 <br />
 
 ## Reference
+
 - [Traversy Media - JavaScript Password Generator](https://youtu.be/duNmhKgtcsI)
 
+<br />
+
 ## Icons
+
 - Password icon by [patriciaridenour](https://imgbin.com/user/patriciaridenour) on [imgbin](https://imgbin.com/png/k90d8sMG/password-manager-password-safe-png)
 
 <br />
