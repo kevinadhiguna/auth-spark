@@ -30,6 +30,9 @@ Having generated a secure password, you can copy the password to your clipboard.
 ## Reference
 - [Traversy Media - JavaScript Password Generator](https://youtu.be/duNmhKgtcsI)
 
+## Icons
+- Password icon by [patriciaridenour](https://imgbin.com/user/patriciaridenour) on [imgbin](https://imgbin.com/png/k90d8sMG/password-manager-password-safe-png)
+
 <br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/auth-spark)](https://github.com/kevinadhiguna)
